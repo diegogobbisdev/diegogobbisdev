@@ -63,7 +63,7 @@ Olá! 👋 Meu nome é Diego Gobbis, tenho 32 anos e sou estudante de Sistemas d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
->
+/>
 
 <br/>
 <br/>
