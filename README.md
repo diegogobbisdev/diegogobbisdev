@@ -68,4 +68,3 @@ Olá! 👋 Meu nome é Diego Gobbis, tenho 32 anos e sou estudante de Sistemas d
 <br/>
 <br/>
 
-### 📊 Estatísticas
