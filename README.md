@@ -10,47 +10,80 @@ Atualmente estou me especializando em **Desenvolvimento Front-End**, criando pro
 
 ---
 
-# 🧠 Foco de Estudo
+### 🤖 Linguagens e Tecnologias
 
-- Desenvolvimento Front-End
-- Interfaces responsivas
-- Boas práticas de código
-- Integração com APIs
-- Experiência do usuário (UX/UI)
+<img 
+align="left" 
+alt="HTML"
+title="HTML" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="CSS"
+title="CSS" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="JavaScript"
+title="JavaScript" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="Git"
+title="Git" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="Firebase"
+title="Firebase" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
+/>
+
+<img 
+align="left" 
+alt="GitHub"
+title="GitHub" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-# 🤖 Tecnologias
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-<i class="devicon-html5-plain colored" style="font-size:40px"></i>
-<i class="devicon-css3-plain colored" style="font-size:40px"></i>
-<i class="devicon-javascript-plain colored" style="font-size:40px"></i>
-<i class="devicon-git-plain colored" style="font-size:40px"></i>
-<i class="devicon-firebase-plain colored" style="font-size:40px"></i>
-<i class="devicon-github-original colored" style="font-size:40px"></i>
-
----
-
-# 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
-<img 
-align="left"
-height="200"
-src="https://github-readme-stats.vercel.app/api?username=diegogobbisdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+  <img 
+    align="left" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=diegogobbisdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
-align="left"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogobbisdev&theme=tokyonight&layout=compact&langs_count=8"
-/>
+      align="left" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogobbisdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
 </p>
-
----
-
-# 🚀 Objetivo
-
-Meu objetivo é atuar como **Desenvolvedor Front-End**, criando interfaces modernas, performáticas e com ótima experiência para o usuário.
