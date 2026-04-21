@@ -1,14 +1,12 @@
-👨‍💻 Sobre mim
-Sou Diego Gobbis, desenvolvedor front-end e estudante de Sistemas de Informação na UEMG Ituiutaba (7° período). Atuo profissionalmente como desenvolvedor front-end na JoiÓtica, onde construo e mantenho soluções web internas, e realizo projetos freelance com foco em interfaces modernas, responsivas e funcionais.
-Minha trajetória é guiada pela prática: aprendo construindo, itero rápido e não paro até o resultado ser algo de que me orgulho.
-typescriptconst diego = {
-  formação:    "Sistemas de Informação – UEMG Ituiutaba (7° período)",
-  atuação:     "Desenvolvedor Front-End @ JoiÓtica + Freelancer",
-  foco:        ["interfaces responsivas", "aplicações web", "UX funcional"],
-  aprendendo:  ["React", "Node.js", "PostgreSQL", "Fastify"],
-  tcc:         "Estuda Fácil — plataforma de gestão de estudos",
-  contato:     "Aberto a oportunidades remotas 🚀"
-};
+# 👨🏼‍💻 Diego Gobbis
+
+**`Desenvolvedor Front-End`**
+
+Olá! 👋  
+Me chamo **Diego Gobbis**, tenho 32 anos e sou estudante de **Sistemas de Informação na UEMG**.  
+Sou apaixonado por tecnologia e desenvolvimento web, com foco na criação de **interfaces modernas, responsivas e funcionais**.
+
+Atualmente estou me especializando em **Desenvolvimento Front-End**, criando projetos práticos para evoluir minhas habilidades.
 
 🛠️ Stack & Tecnologias
 Front-End
