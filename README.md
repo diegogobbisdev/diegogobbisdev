@@ -33,34 +33,6 @@ Ferramentas & Versionamento
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-🚀 Projetos em Destaque
-📚 Estuda Fácil — TCC
-
-Plataforma de gestão de estudos com autenticação, metas e progresso por disciplina.
-
-
-Frontend: React 19 + Vite + Tailwind CSS + shadcn/ui
-Backend: Node.js + Fastify + PostgreSQL + Drizzle ORM
-Auth: JWT + Argon2 | Deploy: Railway
-
-
-💎 JoiÓtica Landing Page
-
-Landing page institucional para joalheria e ótica em Ituiutaba/MG.
-
-
-HTML5 semântico + CSS3 responsivo + JavaScript vanilla
-Design baseado na identidade visual da marca (navy #11315E / lilac #9692C5)
-
-
-🌰 Empório Castanhas & Sabores
-
-Landing page para loja de produtos naturais — projeto freelance.
-
-
-HTML5 + CSS3 + JavaScript
-Foco em performance e apresentação de produtos
-
 
 📊 GitHub Stats
 <div align="center">
